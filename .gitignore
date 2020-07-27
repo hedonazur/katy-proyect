@@ -1,0 +1,20 @@
+# Django development
+config.json
+__pycache__
+
+.git/*
+.*swp
+*pyc
+.idea
+htmlcov
+.coverage
+dist
+build
+proyectos_de_ley.egg*
+
+*json
+pages/*
+congresista/*
+*db
+*sql
+.DS_Store
